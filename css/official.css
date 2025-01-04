@@ -1,15 +1,15 @@
-.infinity {
-	color: #FFFFFF;
-	background: #1F1F1F;
+.prestige {
+	color: #165E61;
+	background: #19BABF;
 	font-weight: bold;
-	border: 2px solid #B67F33;
+	border: 2px solid #10979C;
 	border-radius: 4px;
 	transition-duration: 0.2s;
 	cursor: pointer;
 }
-.infinity:hover {
+.prestige:hover {
 	color: #000000;
-	background: #B67F33;
+	background: #10979C;
 }
 
 .eternity {
